@@ -1,6 +1,6 @@
-# 🚀 AI Website Generator ( WebCrafter - GenAI )
+# 🚀 AI Website Generator ( Website Builder - GenAI )
 
-An AI-powered web application that generates complete website code (HTML, CSS, and JavaScript) from simple user prompts. Built with React.js and integrates LangChain with the Groq LLM API (Llama 3.1) for intelligent code generation.
+An AI-powered web application that generates complete website code (HTML, CSS, and JavaScript) from simple user prompts. Built with React.js and integrates OpenAI with the Deep Seek Model for intelligent code generation.
 
 Live Demo : [https://websitebuilder-mw6x.onrender.com]
 
@@ -28,7 +28,7 @@ Live Demo : [https://websitebuilder-mw6x.onrender.com]
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, HTML, CSS, JavaScript
-- **AI Model**: Groq LLM API (Google Generative AI)
+- **AI Model**: Deep Seek AI API
 - **Styling**: Custom CSS (no Tailwind or Bootstrap)
 
 ---
@@ -38,5 +38,5 @@ Live Demo : [https://websitebuilder-mw6x.onrender.com]
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/codeAkhilesh14/Web-Crafter-GENAI-
-cd Web-Crafter-GENAI-
+git clone https://github.com/codeAkhilesh14/WebsiteBuilder-GEN-AI
+cd WebsiteBuilder-GEN-AI
